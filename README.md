@@ -44,3 +44,4 @@
 1. [*Console CRUD app using JDBC*](https://github.com/Frostetsky/job4j_tracker)
 2. [*Job Grabber(HTML Parser using JSOP)*](https://github.com/Frostetsky/job4j_grabber)
 ---
+![Github stats](https://github-readme-stats.vercel.app/api?username=Frostetsky&hide=stars,prs,issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frostetsky&layout=compact)](https://github.com/Frostetsky/github-readme-stats)
