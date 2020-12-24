@@ -10,8 +10,6 @@
 ![текст](https://img.shields.io/badge/Java-%E2%89%A5%208-orange) ![текст](https://img.shields.io/badge/Spring-%E2%89%A5%205-yellow) ![текст](https://img.shields.io/badge/Hibernate-%E2%89%A5%205-yellow) ![текст](https://img.shields.io/badge/Maven-3-red) ![текст](https://img.shields.io/badge/Git-%E2%89%A5%202-9cf) ![текст](https://img.shields.io/badge/PostgreSQL-%E2%89%A5%209-blue) ![текст](https://img.shields.io/badge/Travis-CI-green)
 
 ---
-#### Here is my study projects:
-
 ##### Lessons of:
 
  1. <b>*Java Core*</b>
@@ -39,8 +37,10 @@
     * [*CRUD Operations*](https://github.com/Frostetsky/Hibernate/tree/master/src/main/java/Hibernate)
     * [*OneToOneRelationship*](https://github.com/Frostetsky/Hibernate/tree/master/src/main/java/OneToOneRelationship)
     * [*OneToManyRelationship*](https://github.com/Frostetsky/Hibernate/tree/master/src/main/java/OneToManyRelationship)
-
+    
+---
 ##### Projects:
 
 1. [*Console CRUD app using JDBC*](https://github.com/Frostetsky/job4j_tracker)
 2. [*Job Grabber(HTML Parser using JSOP)*](https://github.com/Frostetsky/job4j_grabber)
+---
