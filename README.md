@@ -21,7 +21,7 @@
     * [*Lambda*](https://github.com/Frostetsky/job4j_elementary/tree/master/src/main/java/job4j/lambda), [*Stream API*](https://github.com/Frostetsky/job4j_elementary/tree/master/src/main/java/job4j/stream), [*Optional*](https://github.com/Frostetsky/job4j_elementary/tree/master/src/main/java/job4j/bank)
     * [*Generics, WildCard*](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_001/generic)
     * [*Java IO/NIO*](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_002/java_IO)
-    * [*Exception*](https://github.com/Frostetsky/job4j_elementary/tree/master/src/main/java/job4j/ex)
+    * [*Exceptions*](https://github.com/Frostetsky/job4j_elementary/tree/master/src/main/java/job4j/ex)
  2. <b>*Java Multithreading*</b>
  3. <b>*Data Base*</b>
     * [*PostgreSQL, SQL*](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_003/PostgreSQL_and_SQL)
