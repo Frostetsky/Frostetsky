@@ -13,6 +13,7 @@
 <b>Here is my study projects:</b>
 
 <b>Lessons of:</b>
->1.
->2.
->3.
+###### 1. First item
+###### 2. Second item
+###### 3. Third item
+###### 4. Fourth item
