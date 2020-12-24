@@ -14,21 +14,23 @@
 
 ##### Lessons of:
 
-1. Java Core
->1.1 Basic Constructions
->1.2 OOP
->1.3 Collection Framework, Algorithms and Data Structures
->1.4 Lambda, Stream API, Optional
->1.5 Generics
->1.6 Java IO/NIO
->1.7 Exception
-2. Java Multithreading
-3. Data Base
- 3.1 PostgreSQL, SQL
- 3.2 JDBC
-4. Garbage Collector
-5. Object Oriented Design
- 5.1 SOLID
- 5.2 Design Patterns
-6. Spring Framework
-7. Hibernate Framework
+ 1. Java Core
+    * Basic Constructions
+    * OOP
+    * Collection Framework, Algorithms and Data Structures
+    * Lambda, Stream API, Optional
+    * Generics, WildCard
+    * Java IO/NIO
+    * Exception
+ 2. Java Multithreading
+ 3. Data Base
+    * PostgreSQL, SQL
+    * JDBC
+ 4. Garbage Collector
+ 5. Object Oriented Design
+    * SOLID
+    * Design Patterns
+ 6. Spring Framework
+ 7. Hibernate Framework
+
+##### Projects:
