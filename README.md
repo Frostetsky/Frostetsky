@@ -42,5 +42,5 @@
 
 ##### Projects:
 
-1. [Console CRUD app using JDBC](https://github.com/Frostetsky/job4j_tracker)
-2. [Job Grabber(HTML Parser using JSOP)](https://github.com/Frostetsky/job4j_grabber)
+1. [*Console CRUD app using JDBC*](https://github.com/Frostetsky/job4j_tracker)
+2. [*Job Grabber(HTML Parser using JSOP)*](https://github.com/Frostetsky/job4j_grabber)
