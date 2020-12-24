@@ -15,21 +15,21 @@
 ##### Lessons of:
 
  1. <b>*Java Core*</b>
-    * [Basic Constructions](https://github.com/Frostetsky/job4j_elementary/tree/master/src/main/java/job4j)
+    * [*Basic Constructions*](https://github.com/Frostetsky/job4j_elementary/tree/master/src/main/java/job4j)
     * [*Object Oriented Programming*](https://github.com/Frostetsky/job4j_elementary/tree/master/src/main/java/job4j/oop)
-    * [*Collection Framework*](https://github.com/Frostetsky/job4j_elementary/tree/master/src/main/java/job4j/collection), [Algorithms and Data Structures](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_001)
-    * [Lambda](https://github.com/Frostetsky/job4j_elementary/tree/master/src/main/java/job4j/lambda), [Stream API](https://github.com/Frostetsky/job4j_elementary/tree/master/src/main/java/job4j/stream), [Optional](https://github.com/Frostetsky/job4j_elementary/tree/master/src/main/java/job4j/bank)
-    * [Generics, WildCard](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_001/generic)
-    * [Java IO/NIO](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_002/java_IO)
-    * [Exception](https://github.com/Frostetsky/job4j_elementary/tree/master/src/main/java/job4j/ex)
+    * [*Collection Framework*](https://github.com/Frostetsky/job4j_elementary/tree/master/src/main/java/job4j/collection), [*Algorithms and Data Structures*](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_001)
+    * [*Lambda*](https://github.com/Frostetsky/job4j_elementary/tree/master/src/main/java/job4j/lambda), [*Stream API*](https://github.com/Frostetsky/job4j_elementary/tree/master/src/main/java/job4j/stream), [*Optional*](https://github.com/Frostetsky/job4j_elementary/tree/master/src/main/java/job4j/bank)
+    * [*Generics, WildCard*](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_001/generic)
+    * [*Java IO/NIO*](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_002/java_IO)
+    * [*Exception*](https://github.com/Frostetsky/job4j_elementary/tree/master/src/main/java/job4j/ex)
  2. <b>*Java Multithreading*</b>
  3. <b>*Data Base*</b>
-    * [PostgreSQL, SQL](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_003/PostgreSQL_and_SQL)
-    * [JDBC](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_003/JDBC)
+    * [*PostgreSQL, SQL*](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_003/PostgreSQL_and_SQL)
+    * [*JDBC*](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_003/JDBC)
  4. <b>*Garbage Collector*</b>
  5. <b>*Object Oriented Design*</b>
-    * [SOLID](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_005)
-    * [Design Patterns](https://github.com/Frostetsky/OOD)
+    * [*SOLID*](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_005)
+    * [*Design Patterns*](https://github.com/Frostetsky/OOD)
  6. <b>*Spring Framework*</b>
  7. <b>*Hibernate Framework*</b>
 
