@@ -46,3 +46,4 @@
 3. [*Sweater(Alternative to Twitter with basic elements). Tech: Spring (MVC, Boot, Security, JPA), Hibernate, HTML, CSS*](https://github.com/Frostetsky/Sweater)
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Frostetsky&hide=stars,prs,issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frostetsky&layout=compact)](https://github.com/Frostetsky/github-readme-stats)
+
