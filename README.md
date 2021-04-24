@@ -1,6 +1,6 @@
 ### My name is Nesterenko Nikita. Welcome! 👋:v:
 
-- I am 21 year old programmer from Moscow. :computer:
+- I am 22 year old programmer from Moscow. :computer:
 - I learn Java at [job4j](https://job4j.ru/) and [Udemy](https://www.udemy.com/). :mortar_board:
 - I study at the Moscow State University of Civil Engineering. Direction - "Applied Mathematics". :mortar_board:
 - My Java expirience is one year. :chart_with_upwards_trend:
