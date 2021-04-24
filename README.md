@@ -43,7 +43,7 @@
 
 1. [*Console CRUD app using JDBC and ORM Hibernate*](https://github.com/Frostetsky/job4j_tracker)
 2. [*Job Grabber(HTML Parser using JSOP)*](https://github.com/Frostetsky/job4j_grabber)
-3. [*Sweater(Alternative to Twitter with basic elements). Tech: Spring (MVC, Boot, Security, JPA, Thymeleaf), Hibernate, PostgreSQL](https://github.com/Frostetsky/Sweater)
+3. [*Sweater(Alternative to Twitter with basic elements). Tech: Spring (MVC, Boot, Security, JPA, Thymeleaf), Hibernate, PostgreSQL*](https://github.com/Frostetsky/Sweater)
 4. [*Web-Blog(CRUD operations with Post. Basic vizualization with HTML, CSS). Tech: Spring (MVC, Boot, JPA, Thymeleaf), PostgreSQL*](https://github.com/Frostetsky/WEB_Blog)
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Frostetsky&hide=stars,prs,issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frostetsky&layout=compact)](https://github.com/Frostetsky/github-readme-stats)
