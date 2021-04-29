@@ -47,3 +47,4 @@
 4. [*Web-Blog(CRUD operations with Post. Basic vizualization with HTML, CSS). Tech: Spring (MVC, Boot, JPA, Thymeleaf), PostgreSQL*](https://github.com/Frostetsky/WEB_Blog)
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Frostetsky&hide=stars,prs,issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frostetsky&layout=compact)](https://github.com/Frostetsky/github-readme-stats)
+
