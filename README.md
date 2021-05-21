@@ -21,11 +21,12 @@
     * [*Java IO/NIO*](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_002/java_IO)
     * [*Exceptions*](https://github.com/Frostetsky/job4j_elementary/tree/master/src/main/java/job4j/ex)
  2. <b>*Java Multithreading*</b>
- 3. <b>*Database*</b>
+    * [*Threads*](https://github.com/Frostetsky/job4j_multithreading/tree/master/src/main/java/concurrent/threads)
+ 4. <b>*Database*</b>
     * [*PostgreSQL, SQL*](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_003/PostgreSQL_and_SQL)
     * [*JDBC*](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_003/JDBC)
- 4. <b>*Garbage Collector*</b>
- 5. <b>*Object Oriented Design*</b>
+ 5. <b>*Garbage Collector*</b>
+ 6. <b>*Object Oriented Design*</b>
     * [*SOLID*](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_005)
     * [*Design Patterns*](https://github.com/Frostetsky/OOD)
     
