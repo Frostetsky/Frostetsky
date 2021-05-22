@@ -35,7 +35,7 @@
     * [*Spring DI*](https://github.com/Frostetsky/Spring/tree/master/Spring/Spring_DI)
     * [*Spring AOP*](https://github.com/Frostetsky/Spring/tree/master/Spring/Spring_AOP)
     * [*Spring MVC*](https://github.com/Frostetsky/Spring/tree/master/Spring_MVC)
-    * [*Spring REST API*](https://github.com/Frostetsky/Spring/tree/master/Spring_REST_API)[* + *][*Spring REST Client*](https://github.com/Frostetsky/Spring_REST_Client)
+    * [*Spring REST API*](https://github.com/Frostetsky/Spring/tree/master/Spring_REST_API) + [*Spring REST Client*](https://github.com/Frostetsky/Spring_REST_Client)
  7. <b>*Hibernate Framework*</b>
     * [*CRUD Operations*](https://github.com/Frostetsky/Hibernate/tree/master/src/main/java/Hibernate)
     * [*OneToOneRelationship*](https://github.com/Frostetsky/Hibernate/tree/master/src/main/java/OneToOneRelationship)
