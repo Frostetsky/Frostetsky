@@ -55,4 +55,3 @@
 6. [*Diplom work(Construction products marketplace). Tech: Spring (MVC, Boot, JPA, Security), CSS, HTML, JavaScript, PostgreSQL*](https://github.com/Frostetsky/MSUCE_store_diplom)
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Frostetsky&hide=stars,prs,issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frostetsky&layout=compact)](https://github.com/Frostetsky/github-readme-stats)
-
