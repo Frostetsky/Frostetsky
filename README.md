@@ -39,6 +39,7 @@
     * [*Spring REST API*](https://github.com/Frostetsky/Spring/tree/master/Spring_REST_API) + [*Spring REST Client*](https://github.com/Frostetsky/Spring_REST_Client)
     * [*Spring Security*](https://github.com/Frostetsky/Spring/tree/master/Spring_Security)
     * [*Spring Boot*](https://github.com/Frostetsky/Spring_Boot_basic)
+    * [*Spring WebFlux*](https://github.com/Frostetsky/Spring-WebFlux)
     * [*Spring Test*](https://github.com/Frostetsky/Spring_Boot_basic/commit/93046ca58b174a5b22461880eefad61ec22b2984)
  7. <b>*Hibernate Framework*</b>
     * [*CRUD Operations*](https://github.com/Frostetsky/Hibernate/tree/master/src/main/java/Hibernate)
