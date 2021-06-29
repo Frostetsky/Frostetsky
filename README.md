@@ -2,6 +2,7 @@
 
 - I am 22 year old programmer from Moscow. :computer:
 - I learn Java at [job4j](https://job4j.ru/) and [Udemy](https://www.udemy.com/). :mortar_board:
+- I learn SQL at SQL-EX(https://www.sql-ex.ru/). :mortar_board:
 - I graduated from the Moscow State University of Civil Engineering. Direction - "Applied Mathematics". :mortar_board:
 - My Java expirience is one year and a half. :chart_with_upwards_trend:
 ---
