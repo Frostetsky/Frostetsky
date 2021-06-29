@@ -24,7 +24,7 @@
     * [*Threads*](https://github.com/Frostetsky/job4j_multithreading/tree/master/src/main/java/concurrent/threads)
  4. <b>*Database*</b>
     * [*PostgreSQL, SQL*](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_003/PostgreSQL_and_SQL)
-    * [*SQL_EX*](https://github.com/Frostetsky/Hibernate/tree/master/src/main/sql_ex)
+    * [*SQL-EX*](https://github.com/Frostetsky/Hibernate/tree/master/src/main/sql_ex)
     * [*JDBC*](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_003/JDBC)
  5. <b>*Garbage Collector*</b>
  6. <b>*Object Oriented Design*</b>
