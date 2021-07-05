@@ -25,17 +25,18 @@
     * [*Threads*](https://github.com/Frostetsky/job4j_multithreading/tree/master/src/main/java/concurrent/threads)
     * [*Volatile, Synchronized, RaceCondition, Atomic*](https://github.com/Frostetsky/job4j_multithreading/tree/master/src/main/java/concurrent/generalresouces)
     * [*Wait, Notify, NotifyAll, ProducerConsumer Pattern*](https://github.com/Frostetsky/job4j_multithreading/tree/master/src/main/java/concurrent/waitnotify)
- 4. <b>*Database*</b>
+ 3. <b>*Database*</b>
     * [*PostgreSQL, SQL*](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_003/PostgreSQL_and_SQL)
     * [*SQL-EX*](https://github.com/Frostetsky/Hibernate/tree/master/src/main/sql_ex)
     * [*JDBC*](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_003/JDBC)
- 5. <b>*Garbage Collector*</b>
- 6. <b>*Object Oriented Design*</b>
+ 4. <b>*Garbage Collector*</b>
+    * [*GC, Types Of Collectors, Profiling (Jconsole)*](https://github.com/Frostetsky/job4j_tracker/commit/00a62da54dadffbad696127e3ccf96054e42cf0d)
+    * [Cache on SoftReference weak, ConcurrentHashMap](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_004/CacheSoftReference)
+ 5. <b>*Object Oriented Design*</b>
     * [*SOLID*](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_005)
     * [*Design Patterns*](https://github.com/Frostetsky/OOD)
-    
  6. <b>*Spring Framework*</b>
-    * [*Spring IOC*](https://github.com/Frostetsky/Spring/tree/master/Spring/Spring_IoC)
+    * [*Spring IoC*](https://github.com/Frostetsky/Spring/tree/master/Spring/Spring_IoC)
     * [*Spring DI*](https://github.com/Frostetsky/Spring/tree/master/Spring/Spring_DI)
     * [*Spring AOP*](https://github.com/Frostetsky/Spring/tree/master/Spring/Spring_AOP)
     * [*Spring MVC*](https://github.com/Frostetsky/Spring/tree/master/Spring_MVC)
