@@ -24,6 +24,7 @@
  2. <b>*Java Multithreading*</b>
     * [*Threads*](https://github.com/Frostetsky/job4j_multithreading/tree/master/src/main/java/concurrent/threads)
     * [*Volatile, Synchronized, RaceCondition, Atomic*](https://github.com/Frostetsky/job4j_multithreading/tree/master/src/main/java/concurrent/generalresouces)
+    * [*Wait, Notify, NotifyAll, ProducerConsumer Pattern*](https://github.com/Frostetsky/job4j_multithreading/tree/master/src/main/java/concurrent/waitnotify)
  4. <b>*Database*</b>
     * [*PostgreSQL, SQL*](https://github.com/Frostetsky/job4j_design/tree/master/src/main/java/ru/job4j/chapter_003/PostgreSQL_and_SQL)
     * [*SQL-EX*](https://github.com/Frostetsky/Hibernate/tree/master/src/main/sql_ex)
