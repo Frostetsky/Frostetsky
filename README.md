@@ -50,6 +50,7 @@
     * [*CRUD Operations*](https://github.com/Frostetsky/Hibernate/tree/master/src/main/java/Hibernate)
     * [*OneToOneRelationship*](https://github.com/Frostetsky/Hibernate/tree/master/src/main/java/OneToOneRelationship)
     * [*OneToManyRelationship*](https://github.com/Frostetsky/Hibernate/tree/master/src/main/java/OneToManyRelationship)
+    * [*ManyToManyRelationship*](https://github.com/Frostetsky/Hibernate/tree/master/src/main/java/Hibernate_job4j/ManyToManyTask)
     
 ---
 ##### Projects:
