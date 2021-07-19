@@ -51,7 +51,7 @@
     * [*OneToOneRelationship*](https://github.com/Frostetsky/Hibernate/tree/master/src/main/java/OneToOneRelationship)
     * [*OneToManyRelationship*](https://github.com/Frostetsky/Hibernate/tree/master/src/main/java/OneToManyRelationship)
     * [*ManyToManyRelationship*](https://github.com/Frostetsky/Hibernate/tree/master/src/main/java/Hibernate_job4j/ManyToManyTask)
-    * [*FetchType.Eager, FetchType.Lazy*](https://github.com/Frostetsky/Hibernate/commit/7d78d06a98ec10d4cbec3f0a69fadfd25e2d3773) [*LazyInitializationexception*](https://github.com/Frostetsky/Hibernate/commit/068b6ecb108968a9057d699067f3db7853302d01)
+    * [*FetchType.Eager, FetchType.Lazy,*](https://github.com/Frostetsky/Hibernate/commit/7d78d06a98ec10d4cbec3f0a69fadfd25e2d3773) [*LazyInitializationexception*](https://github.com/Frostetsky/Hibernate/commit/068b6ecb108968a9057d699067f3db7853302d01)
     
 ---
 ##### Projects:
