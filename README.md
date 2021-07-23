@@ -57,7 +57,7 @@
     * *Docker*
     * *Kubernetes*
  9. <b>*HTML, CSS, JavaScript*</b>
-    * *Soon...*
+    * [*HTML*](https://github.com/Frostetsky/html_css_js/tree/master/TagsHTML)
     
 ---
 ##### Projects:
