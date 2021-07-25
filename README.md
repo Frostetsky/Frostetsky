@@ -68,5 +68,6 @@
 4. [*Sweater(Alternative to Twitter with basic elements). Tech: Spring (MVC, Boot, Security, JPA, Thymeleaf), Hibernate, PostgreSQL*](https://github.com/Frostetsky/Sweater)
 5. [*Web-Blog(CRUD operations with Post. Basic vizualization with HTML, CSS). Tech: Spring (MVC, Boot, JPA, Thymeleaf), PostgreSQL*](https://github.com/Frostetsky/WEB_Blog)
 6. [*Diplom work(Construction products marketplace). Tech: Spring (MVC, Boot, JPA, Security), CSS, HTML, JavaScript, PostgreSQL*](https://github.com/Frostetsky/MSUCE_store_diplom)
+7. [*Ishop(Online store layout). Tech: HTML, CSS, Bootstrap, JavaScript, JQuery, AJAX*](https://github.com/Frostetsky/Ishop)
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Frostetsky&hide=stars,prs,issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frostetsky&layout=compact)](https://github.com/Frostetsky/github-readme-stats)
