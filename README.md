@@ -71,4 +71,3 @@
 7. [*Ishop(Online store layout). Tech: HTML, CSS, Bootstrap, JavaScript, JQuery, AJAX*](https://github.com/Frostetsky/Ishop)
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Frostetsky&hide=stars,prs,issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frostetsky&layout=compact)](https://github.com/Frostetsky/github-readme-stats)
-
