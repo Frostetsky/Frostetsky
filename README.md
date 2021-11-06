@@ -5,6 +5,7 @@
 - I learn SQL at [SQL-EX](https://www.sql-ex.ru/). :mortar_board:
 - I learn HTML, CSS, JavaScript at [DevStudy.net](https://www.udemy.com/user/devstudy-net/). :mortar_board:
 - I graduated from the Moscow State University of Civil Engineering. Direction - "Applied Mathematics". :mortar_board:
+- I graduated from the Peoples' Friendship University of Russia. Direction - "Fundamental Informatics and Information Technology". :mortar_board:
 - My Java expirience is one year and a half. :chart_with_upwards_trend:
 ---
 <ins><b>Core Technologies</b></ins>
