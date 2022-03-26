@@ -55,14 +55,14 @@
     * [*ManyToManyRelationship*](https://github.com/Frostetsky/Hibernate/tree/master/src/main/java/Hibernate_job4j/ManyToManyTask)
     * [*FetchType.Eager, FetchType.Lazy,*](https://github.com/Frostetsky/Hibernate/commit/7d78d06a98ec10d4cbec3f0a69fadfd25e2d3773) [*LazyInitializationException*](https://github.com/Frostetsky/Hibernate/commit/068b6ecb108968a9057d699067f3db7853302d01)
  8. <b>*Microservices*</b>
-    * [*Spring Boot Actuator. Must Have in Microservices*](https://github.com/Frostetsky/LicenseService/commit/6cf551edde2f00df2826ee598b0f61677878c6a4)
+    * [*Spring Boot Actuator. Must have in Microservices*](https://github.com/Frostetsky/LicenseService/commit/6cf551edde2f00df2826ee598b0f61677878c6a4)
     * *Spring Cloud Eureka*
     * *Spring Cloud Netflix*
     * *Spring Cloud Config*
     * *Spring Cloud API Gateway*
     * *Spring Cloud Caches*
     * *Spring Cloud Streams (Apache Kafka)*
-    * *Spring Cloud Security (OAuth 2.0, KeyCloak)*
+    * *Spring Cloud Security (OAuth 2.0, KeyCloak, Java Web Tokens)*
     * *ElasticSearch*
     * *Docker*
     * *Kubernetes*
