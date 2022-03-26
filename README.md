@@ -63,7 +63,6 @@
     * *Spring Cloud Caches*
     * *Spring Cloud Streams (Apache Kafka)*
     * *Spring Cloud Security (OAuth 2.0, KeyCloak, Java Web Tokens)*
-    * *ElasticSearch*
     * *Docker*
     * *Kubernetes*
     
