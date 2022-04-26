@@ -77,7 +77,7 @@
 4. [*Web-Blog(CRUD operations with Post. Basic vizualization with HTML, CSS). Tech: Spring (MVC, Boot, Data, Thymeleaf), PostgreSQL*](https://github.com/Frostetsky/WEB_Blog)
 5. [*Diplom work(Construction products marketplace). Tech: Spring (MVC, Boot, JPA, Security), CSS, HTML, JavaScript, PostgreSQL*](https://github.com/Frostetsky/MSUCE_store_diplom)
 6. [*Ishop(Online store layout). Tech: HTML, CSS, Bootstrap, JavaScript*](https://github.com/Frostetsky/Ishop)
-7. [*ToDoList. Tech: Spring (REST API, ORM, AOP, Security, Boot), Hibernate, PostgreSQL*](https://github.com/Frostetsky/ToDoList)
+7. [*ToDoList. Tech: Spring (REST API, ORM, AOP, Security, Boot), Lombok, Hibernate, PostgreSQL*](https://github.com/Frostetsky/ToDoList)
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Frostetsky&hide=stars,prs,issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frostetsky&layout=compact)](https://github.com/Frostetsky/github-readme-stats)
 
