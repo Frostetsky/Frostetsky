@@ -42,7 +42,9 @@
     * [*Spring DI*](https://github.com/Frostetsky/Spring/tree/master/Spring/Spring_DI)
     * [*Spring AOP*](https://github.com/Frostetsky/Spring/tree/master/Spring/Spring_AOP)
     * [*Spring MVC*](https://github.com/Frostetsky/Spring/tree/master/Spring_MVC)
-    * *Spring Data*
+    * [*Spring Data*](https://github.com/Frostetsky/CarsMarket/tree/master/src/main/java/com/carmarket/app/repository)
+    * [*Spring ORM*](https://github.com/Frostetsky/ToDoList/tree/master/src/main/java/com/todolist/app/repository)
+    * [*Spring JDBC*](https://github.com/Frostetsky/Spring/blob/master/Spring_MVC_Annot/src/main/java/app/spring/repository/StudentRepository.java)
     * [*Spring REST API*](https://github.com/Frostetsky/Spring/tree/master/Spring_REST_API) + [*Spring REST Client*](https://github.com/Frostetsky/Spring_REST_Client)
     * [*Spring Security*](https://github.com/Frostetsky/Spring/tree/master/Spring_Security)
     * [*Spring Boot*](https://github.com/Frostetsky/Spring_Boot_basic)
