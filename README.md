@@ -59,8 +59,8 @@
  8. <b>*Microservices*</b>
     * [*Spring Boot Actuator. Must have in Microservices*](https://github.com/Frostetsky/LicenseService/commit/6cf551edde2f00df2826ee598b0f61677878c6a4)
     * *Spring Cloud Sleuth*
-    * *Spring Cloud Netflix + Eureka Server*
-    * *Spring Cloud Config*
+    * [*Spring Cloud Eureka Server*](https://github.com/Frostetsky/MNS/tree/master/eureka-service/src)
+    * [*Spring Cloud Config*](https://github.com/Frostetsky/MNS/tree/master/config-service)
     * *Spring Cloud API Gateway*
     * *Spring Cloud Caches*
     * *Spring Cloud Streams (Apache Kafka)*
