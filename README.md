@@ -81,6 +81,7 @@
 6. [*Ishop(Online store layout). Tech: HTML, CSS, Bootstrap, JavaScript*](https://github.com/Frostetsky/Ishop)
 7. [*ToDoList. Tech: Spring (REST API, ORM, AOP, Security, Boot), Lombok, Hibernate, PostgreSQL*](https://github.com/Frostetsky/ToDoList)
 8. [*CarsMarket. Tech: Spring (REST API, Data, AOP, Security JWT, Boot), Lombok, Hibernate, PostgreSQL*](https://github.com/Frostetsky/CarsMarket)
+9. [*MNS (Imitation MarketPlace computers). Tech: Spring Cloud (Config, Eureka Server, OpenFeign), Spring (Boot, REST API, Integration, Data), Lombok, PostgreSQL, TestNG, Mockito, Fake Access with idToken cookie (Security), Apache POI*](https://github.com/Frostetsky/MNS)
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Frostetsky&hide=stars,prs,issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frostetsky&layout=compact)](https://github.com/Frostetsky/github-readme-stats)
 
