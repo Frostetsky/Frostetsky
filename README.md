@@ -9,7 +9,7 @@
 ---
 <ins><b>Core Technologies</b></ins>
 
-![текст](https://img.shields.io/badge/Java-%E2%89%A5%208-orange) ![текст](https://img.shields.io/badge/Spring-%E2%89%A5%205-yellow) ![текст](https://img.shields.io/badge/Hibernate-%E2%89%A5%205-yellow) ![текст](https://img.shields.io/badge/Maven-%E2%89%A5%203-red) ![текст](https://img.shields.io/badge/Git-%E2%89%A5%202-9cf) ![текст](https://img.shields.io/badge/PostgreSQL-%E2%89%A5%209-blue) ![текст](https://img.shields.io/badge/Travis-CI-green)
+![текст](https://img.shields.io/badge/Java-%E2%89%A5%208-orange) ![текст](https://img.shields.io/badge/Spring-%E2%89%A5%205-yellow) ![текст](https://img.shields.io/badge/Spring%20Cloud-%E2%89%A5%203-9cf) ![текст](https://img.shields.io/badge/Hibernate-%E2%89%A5%205-yellow) ![текст](https://img.shields.io/badge/Maven-%E2%89%A5%203-red) ![текст](https://img.shields.io/badge/Git-%E2%89%A5%202-9cf) ![текст](https://img.shields.io/badge/PostgreSQL-%E2%89%A5%209-blue) ![текст](https://img.shields.io/badge/Travis-CI-green)
 
 ---
 ##### Lessons of:
