@@ -83,7 +83,7 @@
 7. [*ToDoList. Tech: Spring (REST API, ORM, AOP, Security, Boot), Lombok, Hibernate, PostgreSQL*](https://github.com/Frostetsky/ToDoList)
 8. [*CarsMarket. Tech: Spring (REST API, Data, AOP, Security JWT, Boot), Lombok, Hibernate, PostgreSQL*](https://github.com/Frostetsky/CarsMarket)
 9. [*MNS (Imitation MarketPlace computers). Tech: Spring Cloud (Config, Eureka Server, OpenFeign, API Gateway), Spring (Boot, REST API, Data, Actuator), Lombok, PostgreSQL, TestNG, Mockito, Java Web Tokens Security with IdToken Cookie, Apache POI*](https://github.com/Frostetsky/MNS)
-10. [*MAGNIT cosmetics (Global Project). Tech: Spring Cloud (Config, Eureka Server, OpenFeign, LoadBalancer, Reslience4j, Sleuth, API Gateway, Apache Kafka, Authorization Server with Keycloak, OAuth 2.0 and JWT), Spring (Boot, REST API, Data, JDBC, Actuator), Lombok, PostgreSQL, TestNG, H2, Mockito.*](https://github.com/Frostetsky/MagnitCosmetics.git) /TODO!
+10. [*MAGNIT cosmetics (Global Project). Tech: Spring Cloud (Config, Eureka Server, OpenFeign, LoadBalancer, Reslience4j, Sleuth, API Gateway, Apache Kafka, Authorization Server with Keycloak, OAuth 2.0 and JWT), Spring (Boot, REST API, Data, JDBC, Actuator), Lombok, PostgreSQL, TestNG, H2, Mockito.*](https://github.com/Frostetsky/MagnitCosmetics.git) /TODO
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Frostetsky&hide=stars,prs,issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frostetsky&layout=compact)](https://github.com/Frostetsky/github-readme-stats)
 
