@@ -46,8 +46,7 @@
     * [*Spring ORM*](https://github.com/Frostetsky/ToDoList/tree/master/src/main/java/com/todolist/app/repository)
     * [*Spring JDBC*](https://github.com/Frostetsky/Spring/blob/master/Spring_MVC_Annot/src/main/java/app/spring/repository/StudentRepository.java)
     * [*Spring REST API*](https://github.com/Frostetsky/Spring/tree/master/Spring_REST_API) + [*Spring REST Client*](https://github.com/Frostetsky/Spring_REST_Client)
-    * [*Spring Security*](https://github.com/Frostetsky/Spring/tree/master/Spring_Security)
-    * *Spring Security 5 (OAuth 2.0, KeyCloak, OpenIDConnect)*
+    * [*Spring Security*](https://github.com/Frostetsky/Spring/tree/master/Spring_Security) + *KeyCloak*, *Oauth 2.0*, *OpenIDConnect*
     * [*Spring Boot*](https://github.com/Frostetsky/Spring_Boot_basic)
     * [*Spring WebFlux*](https://github.com/Frostetsky/Spring-WebFlux)
     * [*Spring Quartz*](https://github.com/Frostetsky/SpringQuartzDemo)
