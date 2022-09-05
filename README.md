@@ -67,6 +67,7 @@
     * *Spring Cloud Streams (Apache Kafka)*
     * *Spring Cloud Load Balancer and Resilience4j*
     * *Spring Cloud Security (OAuth 2.0, KeyCloak, Java Web Tokens)*
+    * *Spring Cloud Vault*
     * *Docker*
     * *Kubernetes*
     * [*Redis*](https://github.com/Frostetsky/Redis)
