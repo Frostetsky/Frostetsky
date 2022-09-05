@@ -63,7 +63,6 @@
     * [*Spring Cloud Eureka Server*](https://github.com/Frostetsky/MNS/tree/master/eureka-service/src)
     * [*Spring Cloud Config*](https://github.com/Frostetsky/MNS/tree/master/config-service)
     * [*Spring Cloud API Gateway*](https://github.com/Frostetsky/MNS/commit/3a304fa66b66a3c3b1cc09cdc8f8c48e29ed8e17)
-    * *Spring Cloud Caches*
     * [*Spring Cloud OpenFeign*](https://github.com/Frostetsky/MNS/blob/master/log-service/src/main/java/com/example/logservice/client/MarketPlaceClient.java)
     * *Spring Cloud Streams (Apache Kafka)*
     * *Spring Cloud Load Balancer and Resilience4j*
