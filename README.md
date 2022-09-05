@@ -66,7 +66,6 @@
     * *Spring Cloud Caches*
     * [*Spring Cloud OpenFeign*](https://github.com/Frostetsky/MNS/blob/master/log-service/src/main/java/com/example/logservice/client/MarketPlaceClient.java)
     * *Spring Cloud Streams (Apache Kafka)*
-    * [*Spring Cloud HATEOS*](https://github.com/Frostetsky/LicenseService/commit/5b71a0157223835de378110a70d058ba8b59a6bc)
     * *Spring Cloud Load Balancer and Resilience4j*
     * *Spring Cloud Security (OAuth 2.0, KeyCloak, Java Web Tokens)*
     * *Docker*
