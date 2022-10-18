@@ -84,8 +84,8 @@
 5. [*Diplom work(Construction products marketplace). Tech: Spring (MVC, Boot, JPA, Security), CSS, HTML, JavaScript, PostgreSQL*](https://github.com/Frostetsky/MSUCE_store_diplom)
 6. [*Ishop(Online store layout). Tech: HTML, CSS, Bootstrap, JavaScript*](https://github.com/Frostetsky/Ishop)
 7. [*ToDoList. Tech: Spring (REST API, ORM, AOP, Security, Boot), Lombok, Hibernate, PostgreSQL*](https://github.com/Frostetsky/ToDoList)
-8. [*UrlShortCut. Tech: Spring (REST API, Data, AOP, Security JWT, Boot), Lombok, Hibernate, PostgreSQL*](https://github.com/Frostetsky/url_short_cut)
-9. [*CarsMarket. Tech: Spring (REST API, Data, AOP, Security (OAuth 2.0 client/resource), Boot), Lombok, Hibernate, PostgreSQL*](https://github.com/Frostetsky/CarsMarket)
+8. [*UrlShortCut. Tech: Spring (REST API, Data, AOP, Security JWT, Boot, Test), Liquibase, Mockito Lombok, Hibernate, PostgreSQL*](https://github.com/Frostetsky/url_short_cut)
+9. [*CarsMarket. Tech: Spring (REST API, Data, AOP, Security (OAuth 2.0), Boot), Lombok, Hibernate, PostgreSQL*](https://github.com/Frostetsky/CarsMarket)
 10. [*MNS (Imitation MarketPlace computers). Tech: Spring Cloud (Config, Eureka Server, OpenFeign, API Gateway), Spring (Boot, REST API, Data, Actuator), Lombok, PostgreSQL, TestNG, Mockito, Java Web Tokens Security with IdToken Cookie, Apache POI*](https://github.com/Frostetsky/MNS)
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Frostetsky&hide=stars,prs,issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frostetsky&layout=compact)](https://github.com/Frostetsky/github-readme-stats)
