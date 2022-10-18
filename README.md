@@ -84,9 +84,9 @@
 5. [*Diplom work(Construction products marketplace). Tech: Spring (MVC, Boot, JPA, Security), CSS, HTML, JavaScript, PostgreSQL*](https://github.com/Frostetsky/MSUCE_store_diplom)
 6. [*Ishop(Online store layout). Tech: HTML, CSS, Bootstrap, JavaScript*](https://github.com/Frostetsky/Ishop)
 7. [*ToDoList. Tech: Spring (REST API, ORM, AOP, Security, Boot), Lombok, Hibernate, PostgreSQL*](https://github.com/Frostetsky/ToDoList)
-8. [*CarsMarket. Tech: Spring (REST API, Data, AOP, Security JWT, Boot), Lombok, Hibernate, PostgreSQL*](https://github.com/Frostetsky/CarsMarket)
-9. [*MNS (Imitation MarketPlace computers). Tech: Spring Cloud (Config, Eureka Server, OpenFeign, API Gateway), Spring (Boot, REST API, Data, Actuator), Lombok, PostgreSQL, TestNG, Mockito, Java Web Tokens Security with IdToken Cookie, Apache POI*](https://github.com/Frostetsky/MNS)
-10. [*MAGNIT cosmetics (Global Project). Tech: Spring Cloud (Config, Eureka Server, OpenFeign, LoadBalancer, Reslience4j, Sleuth, API Gateway, Apache Kafka, Authorization Server with Keycloak, OAuth 2.0 and JWT), Spring (Boot, REST API, Data, JDBC, Actuator), Lombok, PostgreSQL, TestNG, H2, Mockito.*](https://github.com/Frostetsky/MagnitCosmetics.git)
+8. [*UrlShortCut. Tech: Spring (REST API, Data, AOP, Security JWT, Boot), Lombok, Hibernate, PostgreSQL*](https://github.com/Frostetsky/url_short_cut)
+9. [*CarsMarket. Tech: Spring (REST API, Data, AOP, Security JWT, Boot), Lombok, Hibernate, PostgreSQL*](https://github.com/Frostetsky/CarsMarket)
+10. [*MNS (Imitation MarketPlace computers). Tech: Spring Cloud (Config, Eureka Server, OpenFeign, API Gateway), Spring (Boot, REST API, Data, Actuator), Lombok, PostgreSQL, TestNG, Mockito, Java Web Tokens Security with IdToken Cookie, Apache POI*](https://github.com/Frostetsky/MNS)
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Frostetsky&hide=stars,prs,issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frostetsky&layout=compact)](https://github.com/Frostetsky/github-readme-stats)
 
