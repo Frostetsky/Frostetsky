@@ -87,6 +87,7 @@
 8. [*UrlShortCut. Tech: Spring (REST API, Data, AOP, Security JWT, Boot, Test), Liquibase, Mockito, Lombok, Hibernate, PostgreSQL*](https://github.com/Frostetsky/url_short_cut)
 9. [*MNS (Imitation MarketPlace computers). Tech: Spring Cloud (Config, Eureka Server, OpenFeign, API Gateway), Spring (Boot, REST API, Data, Actuator), Lombok, PostgreSQL, TestNG, Mockito, Java Web Tokens Security with IdToken Cookie, Apache POI*](https://github.com/Frostetsky/MNS)
 10. [*AutoCarMag (MarketPlaceCars). Tech: Spring (MVC, ORM, Security, Thymeleaf), Spring Boot, Liquibase, PostgreSQL, Lombok, Hibernate*](https://github.com/Frostetsky/job4j_cars)
+11. [*Spring Config Server without Spring Cloud*](https://github.com/Frostetsky/SpringBootConfigServerWithoutSpringCloud)
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Frostetsky&hide=stars,prs,issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frostetsky&layout=compact)](https://github.com/Frostetsky/github-readme-stats)
 
