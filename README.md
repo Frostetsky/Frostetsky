@@ -1,11 +1,8 @@
 ### My name is Nesterenko Nikita. Welcome! 👋:v:
 
 - I am 23 year old programmer from Moscow. :computer:
-- I keep learning Java, Spring, Spring Cloud, Docker, Kubernetes. :mortar_board:
-- I finished learn SQL, and continue learn NoSQL DataBase. :mortar_board:
 - I graduated from the Moscow State University of Civil Engineering. Direction - "Applied Mathematics". :mortar_board:
-- I graduated from the Peoples' Friendship University of Russia. Direction - "Fundamental Informatics and Information Technology". :mortar_board:
-- My Java expirience is two year. :chart_with_upwards_trend:
+- My Java expirience is three year. :chart_with_upwards_trend:
 ---
 <ins><b>Core Technologies</b></ins>
 
