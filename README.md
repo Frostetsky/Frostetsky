@@ -15,7 +15,7 @@
 ##### Lessons of:
 
  1. <b>*Advanced Spring*</b>
-    * [*Basic Constructions*](https://github.com/Frostetsky/job4j_elementary/tree/master/src/main/java/job4j)
+    * [*Spring Batch for Big Business Jobs*](https://github.com/Frostetsky/job4j_elementary/tree/master/src/main/java/job4j)
  2. <b>*NoSQL*</b>
     
     
